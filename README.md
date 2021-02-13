@@ -1,2 +1,2 @@
 # py
-python - code me
+python - nauka pythona
